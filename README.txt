@@ -6,4 +6,4 @@ Usage:
 5. please note: I changed some variables in the original file, see comments in index.js, if animationDelay is not 0, there will be blinks at the start and the end of the animation. If there is any other character you want you roll, find u = "?0123456789" and include them.
 
 Example:
-![image](https://github.com/iamGeoWat/slot-rolling-number/blob/master/demo.gif)
+![img](https://github.com/iamGeoWat/slot-rolling-number/blob/master/demo.gif)
