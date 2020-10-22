@@ -1,0 +1,12 @@
+{
+  "name": "slot-rolling-number",
+  "version": "1.0.0",
+  "description": "A customized slot-machine-style rolling number tool for web pages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamGeoWat/slot-rolling-number.git"
+  }
+  "author": "Michał Skowronek, modified by GeoWat",
+  "license": "ISC"
+}
