@@ -41,7 +41,7 @@ export default function rollingNumberCreator() {
 
     Object.defineProperty(e, "__esModule", {value: !0});
     var n = r(1), l = a(n), o = r(5), i = r(10), c = a(i),
-      u = "?0123456789".split(""), f = u.length - 1, d = 2,
+      u = "0123456789?".split(""), f = u.length - 1, d = 2,
       s = function (t, e, r, a) {
         var n,
           l = (n = (n = o.append.call(t, "g"), o.attr).call(n, "id", "digit-" + a), o.style).call(n, "filter", "url(#motionFilter-" + a + ")");
